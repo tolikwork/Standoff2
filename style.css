@@ -112,6 +112,11 @@ nav a {
     color: white;
 }
 
+.subs{
+    display: flex;
+    gap: 20px;
+}
+
 
 
 
