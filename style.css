@@ -1,5 +1,25 @@
+footer {
+    background-color: #000000;
+    padding: 10px;
+}
 
+footer img {
+    width: 60px;
+    padding-left: 40px;
+}
 
+h2 {
+    padding: 10px 0 10px 20px;
+    border: 2px dashed #200772;
+}
+
+h2 {
+    font-size: 36px;
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
 
 
 
